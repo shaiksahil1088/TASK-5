@@ -63,3 +63,31 @@
 4. Update your `config.php` file with the correct database credentials.  
 5. Start Apache and MySQL services in XAMPP/WAMP.  
 6. Launch the project in your browser via:  localhost/your_folder_name.php
+
+---
+
+## 🧾 Testing Summary  
+| Test Type | Description | Status |
+|------------|--------------|---------|
+| Functional Testing | Verified CRUD, authentication, search, and pagination | ✅ Passed |
+| Security Testing | Tested SQL injection & validation measures | ✅ Passed |
+| Usability Testing | Ensured intuitive UI and seamless navigation | ✅ Passed |
+| Integration Testing | Validated all modules work together | ✅ Passed |
+
+---
+
+## 📈 Future Improvements  
+- Implement advanced search filters and sorting.  
+- Add email verification and password recovery.  
+- Introduce RESTful API endpoints for future mobile app integration.  
+- Deploy the project to a live web server for public access.  
+
+---
+
+## 🧑‍💼 Acknowledgement  
+Special thanks to **ApexPlanet Software Pvt. Ltd.** for the guidance, resources, and mentorship provided throughout this internship.  
+Completing the final project helped me consolidate all previous learning and gain hands-on experience in **end-to-end web application development**.
+
+---
+
+© 2025 ApexPlanet Software Pvt. Ltd. | Internship Project by *Shaik Sahil*
